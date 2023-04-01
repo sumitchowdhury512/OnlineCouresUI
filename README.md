@@ -1,5 +1,5 @@
 Online Course App
-This is a mobile application for online courses made with Flutter. It is designed to provide a seamless learning experience for students and instructors alike.
+This is a application for online courses made with Flutter. It is designed to provide a seamless learning experience for students and instructors alike.
 
 Features
 The app has the following features:

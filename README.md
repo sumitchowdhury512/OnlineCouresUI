@@ -13,7 +13,7 @@ Progress tracking
 
 Installation
 1. Clone the repository:
-git clone https://github.com/your-username/online-course-app.git
+git clone https://github.com/sumitchowdhury512/OnlineCouresUI
 
 2. Navigate to the project directory:
 cd online-courses
